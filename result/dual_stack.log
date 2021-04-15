@@ -1,0 +1,708 @@
+2021-04-15 00:09:56,296 - WARNING - Detection Dual-Stack Backdoor at Domain: wm.sjtu.edu.cn.!
+2021-04-15 00:09:56,297 - WARNING - wm.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'https', 'mysql', 'ms-wbt-server']
+2021-04-15 00:09:56,297 - WARNING - wm.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:09:56,297 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https')]
+2021-04-15 00:12:54,191 - WARNING - Detection Dual-Stack Backdoor at Domain: iac.sjtu.edu.cn.!
+2021-04-15 00:12:54,192 - WARNING - iac.sjtu.edu.cn. has open services in IPv4: ['http', 'http', 'http', 'ms-wbt-server']
+2021-04-15 00:12:54,192 - WARNING - iac.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:12:54,192 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 00:16:45,131 - WARNING - Detection Dual-Stack Backdoor at Domain: math.sjtu.edu.cn.!
+2021-04-15 00:16:45,132 - WARNING - math.sjtu.edu.cn. has open services in IPv4: ['ftp', 'http', 'ftp', 'http']
+2021-04-15 00:16:45,132 - WARNING - math.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:16:45,132 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 00:18:45,358 - WARNING - Detection Dual-Stack Backdoor at Domain: sensor.sjtu.edu.cn.!
+2021-04-15 00:18:45,359 - WARNING - sensor.sjtu.edu.cn. has open services in IPv4: ['http', 'ssh']
+2021-04-15 00:18:45,359 - WARNING - sensor.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:18:45,360 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 00:22:26,543 - WARNING - Detection Dual-Stack Backdoor at Domain: p2p.sjtu.edu.cn.!
+2021-04-15 00:22:26,544 - WARNING - p2p.sjtu.edu.cn. has open services in IPv4: ['ftp', 'ssh', 'telnet', 'http', 'msrpc', 'netbios-ssn', 'ssh', 'ldap', 'microsoft-ds', 'rxmon', 'mysql', 'ms-wbt-server', 'ajp13', 'ftp']
+2021-04-15 00:22:26,544 - WARNING - p2p.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:22:26,544 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 00:23:16,078 - WARNING - Detection Dual-Stack Backdoor at Domain: quantum.sjtu.edu.cn.!
+2021-04-15 00:23:16,079 - WARNING - quantum.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'tcpwrapped']
+2021-04-15 00:23:16,079 - WARNING - quantum.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:23:16,079 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 00:25:39,303 - WARNING - Detection Dual-Stack Backdoor at Domain: history.sjtu.edu.cn.!
+2021-04-15 00:25:39,304 - WARNING - history.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 00:25:39,304 - WARNING - history.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:25:39,304 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 00:26:38,190 - WARNING - Detection Dual-Stack Backdoor at Domain: jin.sjtu.edu.cn.!
+2021-04-15 00:26:38,190 - WARNING - jin.sjtu.edu.cn. has open services in IPv4: ['http']
+2021-04-15 00:26:38,191 - WARNING - jin.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:26:38,191 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 00:27:06,858 - WARNING - Detection Dual-Stack Backdoor at Domain: oc.sjtu.edu.cn.!
+2021-04-15 00:27:06,859 - WARNING - oc.sjtu.edu.cn. has open services in IPv4: ['http', 'http']
+2021-04-15 00:27:06,860 - WARNING - oc.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 00:27:06,860 - WARNING - Open service threat port: [(443, 'https'), (22, 'ssh')]
+2021-04-15 00:30:39,318 - WARNING - Detection Dual-Stack Backdoor at Domain: collect.sjtu.edu.cn.!
+2021-04-15 00:30:39,319 - WARNING - collect.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 00:30:39,319 - WARNING - collect.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:30:39,319 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 00:33:22,133 - WARNING - Detection Dual-Stack Backdoor at Domain: ep.sjtu.edu.cn.!
+2021-04-15 00:33:22,134 - WARNING - ep.sjtu.edu.cn. has open services in IPv4: ['ftp', 'domain', 'http', 'mysql', 'ms-wbt-server', 'http', 'msrpc', 'msrpc']
+2021-04-15 00:33:22,134 - WARNING - ep.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:33:22,134 - WARNING - Open service threat port: [(111, 'rpcbind'), (443, 'https'), (25, 'smtp')]
+2021-04-15 00:35:09,697 - WARNING - Detection Dual-Stack Backdoor at Domain: development.sjtu.edu.cn.!
+2021-04-15 00:35:09,697 - WARNING - development.sjtu.edu.cn. has open services in IPv4: []
+2021-04-15 00:35:09,698 - WARNING - development.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:35:09,698 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 00:37:25,146 - WARNING - Detection Dual-Stack Backdoor at Domain: zy.sjtu.edu.cn.!
+2021-04-15 00:37:25,147 - WARNING - zy.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 00:37:25,147 - WARNING - zy.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:37:25,147 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 00:39:21,010 - WARNING - Detection Dual-Stack Backdoor at Domain: ist.sjtu.edu.cn.!
+2021-04-15 00:39:21,011 - WARNING - ist.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'tcpwrapped']
+2021-04-15 00:39:21,012 - WARNING - ist.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:39:21,012 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 00:42:48,131 - WARNING - Detection Dual-Stack Backdoor at Domain: training.sjtu.edu.cn.!
+2021-04-15 00:42:48,131 - WARNING - training.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 00:42:48,132 - WARNING - training.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:42:48,132 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 00:46:28,218 - WARNING - Detection Dual-Stack Backdoor at Domain: sa.sjtu.edu.cn.!
+2021-04-15 00:46:28,219 - WARNING - sa.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'upnp', 'commplex-link', 'http-proxy']
+2021-04-15 00:46:28,219 - WARNING - sa.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 00:46:28,219 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 00:48:14,930 - WARNING - Detection Dual-Stack Backdoor at Domain: visit.sjtu.edu.cn.!
+2021-04-15 00:48:14,930 - WARNING - visit.sjtu.edu.cn. has open services in IPv4: []
+2021-04-15 00:48:14,931 - WARNING - visit.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:48:14,931 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 00:51:57,213 - WARNING - Detection Dual-Stack Backdoor at Domain: vision.sjtu.edu.cn.!
+2021-04-15 00:51:57,214 - WARNING - vision.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 00:51:57,214 - WARNING - vision.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:51:57,214 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 00:54:11,860 - WARNING - Detection Dual-Stack Backdoor at Domain: sports.sjtu.edu.cn.!
+2021-04-15 00:54:11,861 - WARNING - sports.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 00:54:11,861 - WARNING - sports.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 00:54:11,861 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 01:23:48,040 - WARNING - Detection Dual-Stack Backdoor at Domain: bbs.sjtu.edu.cn.!
+2021-04-15 01:23:48,041 - WARNING - bbs.sjtu.edu.cn. has open services in IPv4: ['ftp', 'ssh', 'telnet', 'smtp', 'http', 'http', 'pop3', '3d-nfsd', 'cbt', 'http']
+2021-04-15 01:23:48,041 - WARNING - bbs.sjtu.edu.cn. has open services in IPv6: ['ssh', 'telnet', 'http', 'http', 'http']
+2021-04-15 01:23:48,042 - WARNING - Open service threat port: []
+2021-04-15 01:24:46,095 - WARNING - Detection Dual-Stack Backdoor at Domain: robotics.sjtu.edu.cn.!
+2021-04-15 01:24:46,096 - WARNING - robotics.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'https']
+2021-04-15 01:24:46,097 - WARNING - robotics.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 01:24:46,097 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https'), (80, 'http')]
+2021-04-15 01:26:31,251 - WARNING - Detection Dual-Stack Backdoor at Domain: systems.sjtu.edu.cn.!
+2021-04-15 01:26:31,252 - WARNING - systems.sjtu.edu.cn. has open services in IPv4: []
+2021-04-15 01:26:31,252 - WARNING - systems.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 01:26:31,252 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 01:28:35,100 - WARNING - Detection Dual-Stack Backdoor at Domain: message.sjtu.edu.cn.!
+2021-04-15 01:28:35,100 - WARNING - message.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 01:28:35,101 - WARNING - message.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 01:28:35,101 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 01:31:26,604 - WARNING - Detection Dual-Stack Backdoor at Domain: ant.sjtu.edu.cn.!
+2021-04-15 01:31:26,604 - WARNING - ant.sjtu.edu.cn. has open services in IPv4: ['ftp', 'ssh', 'domain', 'http', 'rpcbind', 'netbios-ssn', 'ldap', 'https', 'netbios-ssn', 'printer', 'nfs', 'mysql', 'dtspc', 'mythtv', 'afs3-prserver', 'unknown', 'realserver', 'http-alt', 'vcom-tunnel', 'teradataordbms', 'ajp12', 'unknown', 'https-alt', 'abyss', 'ibm-db2']
+2021-04-15 01:31:26,605 - WARNING - ant.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 01:31:26,605 - WARNING - Open service threat port: [(25, 'smtp'), (443, 'https')]
+2021-04-15 01:35:30,832 - WARNING - Detection Dual-Stack Backdoor at Domain: ins.sjtu.edu.cn.!
+2021-04-15 01:35:30,833 - WARNING - ins.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'unknown', 'vcom-tunnel']
+2021-04-15 01:35:30,833 - WARNING - ins.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 01:35:30,833 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 01:38:51,098 - WARNING - Detection Dual-Stack Backdoor at Domain: si.sjtu.edu.cn.!
+2021-04-15 01:38:51,099 - WARNING - si.sjtu.edu.cn. has open services in IPv4: ['ssh', 'telnet', 'smtp', 'http', 'http', 'http', 'http', 'http', 'https-alt', 'abyss']
+2021-04-15 01:38:51,099 - WARNING - si.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 01:38:51,100 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https')]
+2021-04-15 01:42:20,404 - WARNING - Detection Dual-Stack Backdoor at Domain: min.sjtu.edu.cn.!
+2021-04-15 01:42:20,405 - WARNING - min.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 01:42:20,405 - WARNING - min.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 01:42:20,406 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 01:45:44,027 - WARNING - Detection Dual-Stack Backdoor at Domain: zoom.sjtu.edu.cn.!
+2021-04-15 01:45:44,028 - WARNING - zoom.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'ssh', 'availant-mgr', 'novation', 'http']
+2021-04-15 01:45:44,028 - WARNING - zoom.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 01:45:44,028 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 01:49:13,675 - WARNING - Detection Dual-Stack Backdoor at Domain: join.sjtu.edu.cn.!
+2021-04-15 01:49:13,676 - WARNING - join.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 01:49:13,677 - WARNING - join.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 01:49:13,677 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 01:52:40,725 - WARNING - Detection Dual-Stack Backdoor at Domain: apply.sjtu.edu.cn.!
+2021-04-15 01:52:40,726 - WARNING - apply.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 01:52:40,727 - WARNING - apply.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 01:52:40,727 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 01:56:07,963 - WARNING - Detection Dual-Stack Backdoor at Domain: ee.sjtu.edu.cn.!
+2021-04-15 01:56:07,963 - WARNING - ee.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 01:56:07,964 - WARNING - ee.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 01:56:07,964 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 01:58:41,041 - WARNING - Detection Dual-Stack Backdoor at Domain: v.sjtu.edu.cn.!
+2021-04-15 01:58:41,041 - WARNING - v.sjtu.edu.cn. has open services in IPv4: ['http', 'hosts2-ns', 'https']
+2021-04-15 01:58:41,042 - WARNING - v.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 01:58:41,042 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 02:00:46,660 - WARNING - Detection Dual-Stack Backdoor at Domain: bat.sjtu.edu.cn.!
+2021-04-15 02:00:46,661 - WARNING - bat.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'tcpwrapped']
+2021-04-15 02:00:46,661 - WARNING - bat.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 02:00:46,662 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 02:05:42,305 - WARNING - Detection Dual-Stack Backdoor at Domain: magic.sjtu.edu.cn.!
+2021-04-15 02:05:42,305 - WARNING - magic.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 02:05:42,306 - WARNING - magic.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 02:05:42,306 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 02:09:21,145 - WARNING - Detection Dual-Stack Backdoor at Domain: developer.sjtu.edu.cn.!
+2021-04-15 02:09:21,146 - WARNING - developer.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'upnp', 'commplex-link', 'http-proxy']
+2021-04-15 02:09:21,146 - WARNING - developer.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 02:09:21,146 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 02:13:58,157 - WARNING - Detection Dual-Stack Backdoor at Domain: isc.sjtu.edu.cn.!
+2021-04-15 02:13:58,158 - WARNING - isc.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 02:13:58,158 - WARNING - isc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 02:13:58,159 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 02:17:28,869 - WARNING - Detection Dual-Stack Backdoor at Domain: archives.sjtu.edu.cn.!
+2021-04-15 02:17:28,870 - WARNING - archives.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 02:17:28,870 - WARNING - archives.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 02:17:28,870 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 02:21:46,569 - WARNING - Detection Dual-Stack Backdoor at Domain: ua.sjtu.edu.cn.!
+2021-04-15 02:21:46,570 - WARNING - ua.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 02:21:46,571 - WARNING - ua.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 02:21:46,571 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 02:25:22,255 - WARNING - Detection Dual-Stack Backdoor at Domain: al.sjtu.edu.cn.!
+2021-04-15 02:25:22,256 - WARNING - al.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 02:25:22,257 - WARNING - al.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 02:25:22,257 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 02:26:14,593 - WARNING - Detection Dual-Stack Backdoor at Domain: app.sjtu.edu.cn.!
+2021-04-15 02:26:14,594 - WARNING - app.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'http']
+2021-04-15 02:26:14,594 - WARNING - app.sjtu.edu.cn. has open services in IPv6: []
+2021-04-15 02:26:14,595 - WARNING - Open service threat port: []
+2021-04-15 02:29:32,794 - WARNING - Detection Dual-Stack Backdoor at Domain: apple.sjtu.edu.cn.!
+2021-04-15 02:29:32,795 - WARNING - apple.sjtu.edu.cn. has open services in IPv4: ['ssh', 'telnet', 'domain', 'rpcbind', 'msrpc', 'netbios-ssn', 'ldap', 'microsoft-ds', 'rxmon', 'mysql', 'ms-wbt-server', 'ajp13']
+2021-04-15 02:29:32,796 - WARNING - apple.sjtu.edu.cn. has open services in IPv6: ['domain', 'rpcbind']
+2021-04-15 02:29:32,796 - WARNING - Open service threat port: []
+2021-04-15 02:32:43,711 - WARNING - Detection Dual-Stack Backdoor at Domain: ids.sjtu.edu.cn.!
+2021-04-15 02:32:43,712 - WARNING - ids.sjtu.edu.cn. has open services in IPv4: ['http', 'msrpc', 'ms-wbt-server', 'msrpc', 'unknown', 'msrpc']
+2021-04-15 02:32:43,712 - WARNING - ids.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 02:32:43,713 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 02:36:10,967 - WARNING - Detection Dual-Stack Backdoor at Domain: pec.sjtu.edu.cn.!
+2021-04-15 02:36:10,967 - WARNING - pec.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'http']
+2021-04-15 02:36:10,968 - WARNING - pec.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 02:36:10,968 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 02:39:32,827 - WARNING - Detection Dual-Stack Backdoor at Domain: cms.sjtu.edu.cn.!
+2021-04-15 02:39:32,828 - WARNING - cms.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 02:39:32,828 - WARNING - cms.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 02:39:32,828 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 03:00:20,320 - WARNING - Detection Dual-Stack Backdoor at Domain: trans.sjtu.edu.cn.!
+2021-04-15 03:00:20,321 - WARNING - trans.sjtu.edu.cn. has open services in IPv4: ['msrpc', 'netbios-ssn', 'microsoft-ds']
+2021-04-15 03:00:20,321 - WARNING - trans.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:00:20,322 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 03:04:04,913 - WARNING - Detection Dual-Stack Backdoor at Domain: sun.sjtu.edu.cn.!
+2021-04-15 03:04:04,914 - WARNING - sun.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'http', 'telnet', 'http-proxy', 'zeus-admin']
+2021-04-15 03:04:04,914 - WARNING - sun.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:04:04,914 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 03:05:46,902 - WARNING - Detection Dual-Stack Backdoor at Domain: applications.sjtu.edu.cn.!
+2021-04-15 03:05:46,903 - WARNING - applications.sjtu.edu.cn. has open services in IPv4: []
+2021-04-15 03:05:46,903 - WARNING - applications.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:05:46,904 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 03:09:22,114 - WARNING - Detection Dual-Stack Backdoor at Domain: lac.sjtu.edu.cn.!
+2021-04-15 03:09:22,115 - WARNING - lac.sjtu.edu.cn. has open services in IPv4: ['http', 'hosts2-ns', 'https']
+2021-04-15 03:09:22,115 - WARNING - lac.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:09:22,115 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 03:11:44,795 - WARNING - Detection Dual-Stack Backdoor at Domain: smt.sjtu.edu.cn.!
+2021-04-15 03:11:44,796 - WARNING - smt.sjtu.edu.cn. has open services in IPv4: ['http', 'pptp', 'tcpwrapped', 'unknown']
+2021-04-15 03:11:44,797 - WARNING - smt.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:11:44,797 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 03:15:13,320 - WARNING - Detection Dual-Stack Backdoor at Domain: antivirus.sjtu.edu.cn.!
+2021-04-15 03:15:13,321 - WARNING - antivirus.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 03:15:13,321 - WARNING - antivirus.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:15:13,322 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 03:18:52,587 - WARNING - Detection Dual-Stack Backdoor at Domain: cse.sjtu.edu.cn.!
+2021-04-15 03:18:52,588 - WARNING - cse.sjtu.edu.cn. has open services in IPv4: ['ftp', 'ssh', 'telnet', 'http', 'msrpc', 'netbios-ssn', 'ssh', 'ldap', 'microsoft-ds', 'rxmon', 'mysql', 'ms-wbt-server', 'ajp13', 'ftp']
+2021-04-15 03:18:52,589 - WARNING - cse.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:18:52,589 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 03:22:22,873 - WARNING - Detection Dual-Stack Backdoor at Domain: sport.sjtu.edu.cn.!
+2021-04-15 03:22:22,874 - WARNING - sport.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 03:22:22,874 - WARNING - sport.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:22:22,874 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 03:24:32,969 - WARNING - Detection Dual-Stack Backdoor at Domain: mic.sjtu.edu.cn.!
+2021-04-15 03:24:32,970 - WARNING - mic.sjtu.edu.cn. has open services in IPv4: ['ms-wbt-server']
+2021-04-15 03:24:32,970 - WARNING - mic.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:24:32,970 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 03:27:31,946 - WARNING - Detection Dual-Stack Backdoor at Domain: win7.sjtu.edu.cn.!
+2021-04-15 03:27:31,947 - WARNING - win7.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'unknown', 'vcom-tunnel']
+2021-04-15 03:27:31,947 - WARNING - win7.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 03:27:31,947 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 03:29:39,393 - WARNING - Detection Dual-Stack Backdoor at Domain: lc.sjtu.edu.cn.!
+2021-04-15 03:29:39,394 - WARNING - lc.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'tcpwrapped']
+2021-04-15 03:29:39,395 - WARNING - lc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:29:39,395 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 03:33:29,305 - WARNING - Detection Dual-Stack Backdoor at Domain: plan.sjtu.edu.cn.!
+2021-04-15 03:33:29,306 - WARNING - plan.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 03:33:29,306 - WARNING - plan.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 03:33:29,307 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 03:36:57,131 - WARNING - Detection Dual-Stack Backdoor at Domain: pd.sjtu.edu.cn.!
+2021-04-15 03:36:57,132 - WARNING - pd.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 03:36:57,132 - WARNING - pd.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:36:57,132 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 03:41:01,219 - WARNING - Detection Dual-Stack Backdoor at Domain: jwc.sjtu.edu.cn.!
+2021-04-15 03:41:01,219 - WARNING - jwc.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 03:41:01,220 - WARNING - jwc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:41:01,220 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 03:42:03,236 - WARNING - Detection Dual-Stack Backdoor at Domain: gk1.sjtu.edu.cn.!
+2021-04-15 03:42:03,237 - WARNING - gk1.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'tcpwrapped']
+2021-04-15 03:42:03,238 - WARNING - gk1.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:42:03,238 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 03:44:18,156 - WARNING - Detection Dual-Stack Backdoor at Domain: ship.sjtu.edu.cn.!
+2021-04-15 03:44:18,157 - WARNING - ship.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 03:44:18,157 - WARNING - ship.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:44:18,157 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 03:47:57,584 - WARNING - Detection Dual-Stack Backdoor at Domain: plus.sjtu.edu.cn.!
+2021-04-15 03:47:57,585 - WARNING - plus.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'upnp', 'commplex-link', 'http-proxy']
+2021-04-15 03:47:57,585 - WARNING - plus.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:47:57,585 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 03:52:35,026 - WARNING - Detection Dual-Stack Backdoor at Domain: che.sjtu.edu.cn.!
+2021-04-15 03:52:35,027 - WARNING - che.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 03:52:35,027 - WARNING - che.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:52:35,027 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 03:55:14,660 - WARNING - Detection Dual-Stack Backdoor at Domain: na.sjtu.edu.cn.!
+2021-04-15 03:55:14,661 - WARNING - na.sjtu.edu.cn. has open services in IPv4: ['http', 'msrpc', 'netbios-ssn', 'netbios-ssn', 'ms-sql-s', 'ms-olap4', 'msrpc', 'msrpc', 'msrpc', 'msrpc', 'msrpc']
+2021-04-15 03:55:14,661 - WARNING - na.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:55:14,661 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 03:58:36,300 - WARNING - Detection Dual-Stack Backdoor at Domain: oe.sjtu.edu.cn.!
+2021-04-15 03:58:36,300 - WARNING - oe.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 03:58:36,301 - WARNING - oe.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 03:58:36,301 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 04:00:35,317 - WARNING - Detection Dual-Stack Backdoor at Domain: admissions.sjtu.edu.cn.!
+2021-04-15 04:00:35,318 - WARNING - admissions.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 04:00:35,318 - WARNING - admissions.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 04:00:35,318 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 04:02:46,384 - WARNING - Detection Dual-Stack Backdoor at Domain: vs.sjtu.edu.cn.!
+2021-04-15 04:02:46,385 - WARNING - vs.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'ms-wbt-server']
+2021-04-15 04:02:46,385 - WARNING - vs.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:02:46,385 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 04:05:01,608 - WARNING - Detection Dual-Stack Backdoor at Domain: ce.sjtu.edu.cn.!
+2021-04-15 04:05:01,609 - WARNING - ce.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 04:05:01,610 - WARNING - ce.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:05:01,610 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 04:10:28,380 - WARNING - Detection Dual-Stack Backdoor at Domain: old.sjtu.edu.cn.!
+2021-04-15 04:10:28,381 - WARNING - old.sjtu.edu.cn. has open services in IPv4: ['ssh', 'telnet', 'http', 'msrpc', 'netbios-ssn', 'ldap', 'http', 'microsoft-ds', 'rxmon', 'mysql', 'ms-wbt-server', 'ajp13']
+2021-04-15 04:10:28,381 - WARNING - old.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:10:28,381 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 04:13:56,412 - WARNING - Detection Dual-Stack Backdoor at Domain: vr.sjtu.edu.cn.!
+2021-04-15 04:13:56,413 - WARNING - vr.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 04:13:56,413 - WARNING - vr.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:13:56,414 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 04:16:33,203 - WARNING - Detection Dual-Stack Backdoor at Domain: dd.sjtu.edu.cn.!
+2021-04-15 04:16:33,204 - WARNING - dd.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 04:16:33,205 - WARNING - dd.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:16:33,205 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 04:18:41,331 - WARNING - Detection Dual-Stack Backdoor at Domain: smc.sjtu.edu.cn.!
+2021-04-15 04:18:41,332 - WARNING - smc.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'https', 'ms-wbt-server', 'http-proxy']
+2021-04-15 04:18:41,332 - WARNING - smc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:18:41,333 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https')]
+2021-04-15 04:19:34,271 - WARNING - Detection Dual-Stack Backdoor at Domain: gh.sjtu.edu.cn.!
+2021-04-15 04:19:34,271 - WARNING - gh.sjtu.edu.cn. has open services in IPv4: ['ftp', 'ssh', 'smtp', 'http', 'http', 'oracle', 'mysql', 'ms-wbt-server', 'vnc-1', 'http-proxy']
+2021-04-15 04:19:34,272 - WARNING - gh.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:19:34,272 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 04:23:29,604 - WARNING - Detection Dual-Stack Backdoor at Domain: scs.sjtu.edu.cn.!
+2021-04-15 04:23:29,604 - WARNING - scs.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 04:23:29,605 - WARNING - scs.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:23:29,605 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 04:27:40,290 - WARNING - Detection Dual-Stack Backdoor at Domain: dm.sjtu.edu.cn.!
+2021-04-15 04:27:40,291 - WARNING - dm.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 04:27:40,291 - WARNING - dm.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:27:40,291 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 04:32:35,072 - WARNING - Detection Dual-Stack Backdoor at Domain: computing.sjtu.edu.cn.!
+2021-04-15 04:32:35,073 - WARNING - computing.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'upnp', 'commplex-link', 'http-proxy']
+2021-04-15 04:32:35,073 - WARNING - computing.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:32:35,074 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 04:35:47,989 - WARNING - Detection Dual-Stack Backdoor at Domain: dns.sjtu.edu.cn.!
+2021-04-15 04:35:47,990 - WARNING - dns.sjtu.edu.cn. has open services in IPv4: ['ssh', 'telnet', 'domain', 'rpcbind', 'msrpc', 'netbios-ssn', 'ldap', 'microsoft-ds', 'rxmon', 'mysql', 'ms-wbt-server']
+2021-04-15 04:35:47,990 - WARNING - dns.sjtu.edu.cn. has open services in IPv6: ['domain', 'rpcbind']
+2021-04-15 04:35:47,990 - WARNING - Open service threat port: []
+2021-04-15 04:40:03,702 - WARNING - Detection Dual-Stack Backdoor at Domain: csc.sjtu.edu.cn.!
+2021-04-15 04:40:03,702 - WARNING - csc.sjtu.edu.cn. has open services in IPv4: ['telnet', 'http', 'hotline', 'ssh', 'irc', 'http-proxy', 'sun-answerbook', 'ssh', 'unknown', 'unknown']
+2021-04-15 04:40:03,703 - WARNING - csc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:40:03,703 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 04:42:08,205 - WARNING - Detection Dual-Stack Backdoor at Domain: ma.sjtu.edu.cn.!
+2021-04-15 04:42:08,206 - WARNING - ma.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'http', 'ms-wbt-server']
+2021-04-15 04:42:08,206 - WARNING - ma.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:42:08,206 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 04:44:13,525 - WARNING - Detection Dual-Stack Backdoor at Domain: ji.sjtu.edu.cn.!
+2021-04-15 04:44:13,526 - WARNING - ji.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 04:44:13,527 - WARNING - ji.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:44:13,527 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 04:46:23,572 - WARNING - Detection Dual-Stack Backdoor at Domain: vis.sjtu.edu.cn.!
+2021-04-15 04:46:23,573 - WARNING - vis.sjtu.edu.cn. has open services in IPv4: ['ftp-data', 'ftp', 'http', 'http', 'ftps', 'unknown', 'unknown']
+2021-04-15 04:46:23,573 - WARNING - vis.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:46:23,574 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 04:49:05,484 - WARNING - Detection Dual-Stack Backdoor at Domain: etc.sjtu.edu.cn.!
+2021-04-15 04:49:05,485 - WARNING - etc.sjtu.edu.cn. has open services in IPv4: ['http', 'hosts2-ns', 'https']
+2021-04-15 04:49:05,485 - WARNING - etc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:49:05,485 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 04:51:14,488 - WARNING - Detection Dual-Stack Backdoor at Domain: survey.sjtu.edu.cn.!
+2021-04-15 04:51:14,489 - WARNING - survey.sjtu.edu.cn. has open services in IPv4: ['ssh', 'telnet', 'http', 'msrpc', 'netbios-ssn', 'ldap', 'microsoft-ds', 'rxmon', 'ms-sql-s', 'oracle', 'mysql', 'ms-wbt-server', 'ajp13']
+2021-04-15 04:51:14,489 - WARNING - survey.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:51:14,490 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 04:52:18,060 - WARNING - Detection Dual-Stack Backdoor at Domain: sma.sjtu.edu.cn.!
+2021-04-15 04:52:18,061 - WARNING - sma.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'tcpwrapped']
+2021-04-15 04:52:18,062 - WARNING - sma.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:52:18,062 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 04:55:13,883 - WARNING - Detection Dual-Stack Backdoor at Domain: print.sjtu.edu.cn.!
+2021-04-15 04:55:13,884 - WARNING - print.sjtu.edu.cn. has open services in IPv4: ['http']
+2021-04-15 04:55:13,885 - WARNING - print.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:55:13,885 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 04:57:19,743 - WARNING - Detection Dual-Stack Backdoor at Domain: cit.sjtu.edu.cn.!
+2021-04-15 04:57:19,744 - WARNING - cit.sjtu.edu.cn. has open services in IPv4: ['http-proxy', 'scriptview', 'cbt', 'interwise']
+2021-04-15 04:57:19,744 - WARNING - cit.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 04:57:19,744 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 05:00:35,697 - WARNING - Detection Dual-Stack Backdoor at Domain: base.sjtu.edu.cn.!
+2021-04-15 05:00:35,698 - WARNING - base.sjtu.edu.cn. has open services in IPv4: ['http', 'ssh', 'mysql', 'pcanywheredata', 'beorl', 'nrpe', 'rrac', 'activesync', 'cbt', 'ibm-db2', 'unknown', 'iiimsf', 'unknown', 'unknown']
+2021-04-15 05:00:35,698 - WARNING - base.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:00:35,698 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 05:02:50,573 - WARNING - Detection Dual-Stack Backdoor at Domain: ipv6.sjtu.edu.cn.!
+2021-04-15 05:02:50,574 - WARNING - ipv6.sjtu.edu.cn. has open services in IPv4: ['ssh', 'telnet', 'http', 'msrpc', 'netbios-ssn', 'ldap', 'microsoft-ds', 'rxmon', 'mysql', 'ms-wbt-server', 'ajp13']
+2021-04-15 05:02:50,574 - WARNING - ipv6.sjtu.edu.cn. has open services in IPv6: ['http']
+2021-04-15 05:02:50,575 - WARNING - Open service threat port: []
+2021-04-15 05:03:58,721 - WARNING - Detection Dual-Stack Backdoor at Domain: mmm.sjtu.edu.cn.!
+2021-04-15 05:03:58,722 - WARNING - mmm.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'tcpwrapped']
+2021-04-15 05:03:58,722 - WARNING - mmm.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:03:58,723 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 05:04:05,188 - WARNING - Detection Dual-Stack Backdoor at Domain: music.sjtu.edu.cn.!
+2021-04-15 05:04:05,189 - WARNING - music.sjtu.edu.cn. has open services in IPv4: []
+2021-04-15 05:04:05,189 - WARNING - music.sjtu.edu.cn. has open services in IPv6: []
+2021-04-15 05:04:05,189 - WARNING - Open service threat port: []
+2021-04-15 05:08:58,346 - WARNING - Detection Dual-Stack Backdoor at Domain: notice.sjtu.edu.cn.!
+2021-04-15 05:08:58,347 - WARNING - notice.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'upnp', 'commplex-link', 'http-proxy']
+2021-04-15 05:08:58,347 - WARNING - notice.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:08:58,348 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 05:09:51,834 - WARNING - Detection Dual-Stack Backdoor at Domain: wsus.sjtu.edu.cn.!
+2021-04-15 05:09:51,835 - WARNING - wsus.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 05:09:51,835 - WARNING - wsus.sjtu.edu.cn. has open services in IPv6: ['http', 'https']
+2021-04-15 05:09:51,835 - WARNING - Open service threat port: []
+2021-04-15 05:11:41,147 - WARNING - Detection Dual-Stack Backdoor at Domain: ast.sjtu.edu.cn.!
+2021-04-15 05:11:41,148 - WARNING - ast.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http']
+2021-04-15 05:11:41,149 - WARNING - ast.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:11:41,149 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 05:15:37,034 - WARNING - Detection Dual-Stack Backdoor at Domain: vista.sjtu.edu.cn.!
+2021-04-15 05:15:37,034 - WARNING - vista.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'unknown', 'vcom-tunnel']
+2021-04-15 05:15:37,035 - WARNING - vista.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 05:15:37,035 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 05:17:55,141 - WARNING - Detection Dual-Stack Backdoor at Domain: sar.sjtu.edu.cn.!
+2021-04-15 05:17:55,142 - WARNING - sar.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 05:17:55,143 - WARNING - sar.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:17:55,143 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 05:19:37,337 - WARNING - Detection Dual-Stack Backdoor at Domain: ssh.sjtu.edu.cn.!
+2021-04-15 05:19:37,338 - WARNING - ssh.sjtu.edu.cn. has open services in IPv4: []
+2021-04-15 05:19:37,338 - WARNING - ssh.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:19:37,339 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 05:20:40,368 - WARNING - Detection Dual-Stack Backdoor at Domain: cnc.sjtu.edu.cn.!
+2021-04-15 05:20:40,369 - WARNING - cnc.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'tcpwrapped']
+2021-04-15 05:20:40,369 - WARNING - cnc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:20:40,369 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 05:24:06,413 - WARNING - Detection Dual-Stack Backdoor at Domain: www.sjtu.edu.cn.!
+2021-04-15 05:24:06,414 - WARNING - www.sjtu.edu.cn. has open services in IPv4: ['ftp', 'ssh', 'telnet', 'http', 'pop3', 'msrpc', 'netbios-ssn', 'imap', 'ldap', 'http', 'microsoft-ds', 'smtps', 'submission', 'imaps', 'pop3s', 'rxmon', 'mysql', 'ms-wbt-server', 'ajp13']
+2021-04-15 05:24:06,414 - WARNING - www.sjtu.edu.cn. has open services in IPv6: ['http', 'http']
+2021-04-15 05:24:06,414 - WARNING - Open service threat port: []
+2021-04-15 05:28:00,718 - WARNING - Detection Dual-Stack Backdoor at Domain: vi.sjtu.edu.cn.!
+2021-04-15 05:28:00,718 - WARNING - vi.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 05:28:00,719 - WARNING - vi.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:28:00,719 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 05:31:43,127 - WARNING - Detection Dual-Stack Backdoor at Domain: youth.sjtu.edu.cn.!
+2021-04-15 05:31:43,128 - WARNING - youth.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 05:31:43,128 - WARNING - youth.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:31:43,128 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 05:34:30,284 - WARNING - Detection Dual-Stack Backdoor at Domain: en.sjtu.edu.cn.!
+2021-04-15 05:34:30,285 - WARNING - en.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'ssh', 'telnet', 'http', 'rpcbind', 'msrpc', 'netbios-ssn', 'ldap', 'microsoft-ds', 'rxmon', 'mysql', 'ms-wbt-server', 'ajp13']
+2021-04-15 05:34:30,286 - WARNING - en.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 05:34:30,286 - WARNING - Open service threat port: [(443, 'https'), (22, 'ssh')]
+2021-04-15 05:36:39,097 - WARNING - Detection Dual-Stack Backdoor at Domain: fz.sjtu.edu.cn.!
+2021-04-15 05:36:39,098 - WARNING - fz.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'https']
+2021-04-15 05:36:39,098 - WARNING - fz.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:36:39,099 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https'), (80, 'http')]
+2021-04-15 05:40:43,243 - WARNING - Detection Dual-Stack Backdoor at Domain: elearning.sjtu.edu.cn.!
+2021-04-15 05:40:43,244 - WARNING - elearning.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'unknown', 'vcom-tunnel']
+2021-04-15 05:40:43,244 - WARNING - elearning.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:40:43,245 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 05:43:05,874 - WARNING - Detection Dual-Stack Backdoor at Domain: hr.sjtu.edu.cn.!
+2021-04-15 05:43:05,875 - WARNING - hr.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 05:43:05,875 - WARNING - hr.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:43:05,875 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 05:45:00,498 - WARNING - Detection Dual-Stack Backdoor at Domain: application.sjtu.edu.cn.!
+2021-04-15 05:45:00,499 - WARNING - application.sjtu.edu.cn. has open services in IPv4: ['http']
+2021-04-15 05:45:00,499 - WARNING - application.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:45:00,500 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 05:50:00,523 - WARNING - Detection Dual-Stack Backdoor at Domain: news.sjtu.edu.cn.!
+2021-04-15 05:50:00,524 - WARNING - news.sjtu.edu.cn. has open services in IPv4: ['ssh', 'telnet', 'http', 'msrpc', 'netbios-ssn', 'ldap', 'http', 'microsoft-ds', 'rxmon', 'mysql', 'ms-wbt-server', 'ajp13']
+2021-04-15 05:50:00,524 - WARNING - news.sjtu.edu.cn. has open services in IPv6: ['http', 'http']
+2021-04-15 05:50:00,524 - WARNING - Open service threat port: []
+2021-04-15 05:53:48,507 - WARNING - Detection Dual-Stack Backdoor at Domain: hpc.sjtu.edu.cn.!
+2021-04-15 05:53:48,508 - WARNING - hpc.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'upnp', 'commplex-link', 'http-proxy']
+2021-04-15 05:53:48,509 - WARNING - hpc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:53:48,509 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 05:57:17,032 - WARNING - Detection Dual-Stack Backdoor at Domain: bus.sjtu.edu.cn.!
+2021-04-15 05:57:17,033 - WARNING - bus.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'upnp', 'commplex-link', 'http-proxy']
+2021-04-15 05:57:17,033 - WARNING - bus.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 05:57:17,033 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 05:59:31,097 - WARNING - Detection Dual-Stack Backdoor at Domain: media.sjtu.edu.cn.!
+2021-04-15 05:59:31,098 - WARNING - media.sjtu.edu.cn. has open services in IPv4: ['ssh', 'telnet', 'http', 'msrpc', 'netbios-ssn', 'ldap', 'microsoft-ds', 'rxmon', 'mysql', 'ms-wbt-server', 'ajp13']
+2021-04-15 05:59:31,098 - WARNING - media.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 05:59:31,099 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 06:01:47,709 - WARNING - Detection Dual-Stack Backdoor at Domain: view.sjtu.edu.cn.!
+2021-04-15 06:01:47,709 - WARNING - view.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 06:01:47,710 - WARNING - view.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:01:47,710 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 06:04:46,130 - WARNING - Detection Dual-Stack Backdoor at Domain: map.sjtu.edu.cn.!
+2021-04-15 06:04:46,131 - WARNING - map.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'unknown', 'vcom-tunnel']
+2021-04-15 06:04:46,132 - WARNING - map.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 06:04:46,132 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 06:06:46,823 - WARNING - Detection Dual-Stack Backdoor at Domain: gk.sjtu.edu.cn.!
+2021-04-15 06:06:46,824 - WARNING - gk.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'https']
+2021-04-15 06:06:46,824 - WARNING - gk.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:06:46,825 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https'), (80, 'http')]
+2021-04-15 06:09:32,247 - WARNING - Detection Dual-Stack Backdoor at Domain: cert.sjtu.edu.cn.!
+2021-04-15 06:09:32,247 - WARNING - cert.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 06:09:32,248 - WARNING - cert.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:09:32,248 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 06:13:16,345 - WARNING - Detection Dual-Stack Backdoor at Domain: xray.sjtu.edu.cn.!
+2021-04-15 06:13:16,346 - WARNING - xray.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 06:13:16,347 - WARNING - xray.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:13:16,347 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 06:15:27,941 - WARNING - Detection Dual-Stack Backdoor at Domain: ev.sjtu.edu.cn.!
+2021-04-15 06:15:27,942 - WARNING - ev.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'https', 'ms-wbt-server', 'ibm-db2-admin']
+2021-04-15 06:15:27,942 - WARNING - ev.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:15:27,942 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https')]
+2021-04-15 06:19:48,458 - WARNING - Detection Dual-Stack Backdoor at Domain: dashboard.sjtu.edu.cn.!
+2021-04-15 06:19:48,458 - WARNING - dashboard.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 06:19:48,459 - WARNING - dashboard.sjtu.edu.cn. has open services in IPv6: ['http', 'https']
+2021-04-15 06:19:48,459 - WARNING - Open service threat port: []
+2021-04-15 06:23:15,705 - WARNING - Detection Dual-Stack Backdoor at Domain: mba.sjtu.edu.cn.!
+2021-04-15 06:23:15,706 - WARNING - mba.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 06:23:15,707 - WARNING - mba.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 06:23:15,707 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 06:27:10,061 - WARNING - Detection Dual-Stack Backdoor at Domain: ssc.sjtu.edu.cn.!
+2021-04-15 06:27:10,061 - WARNING - ssc.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'unknown', 'vcom-tunnel']
+2021-04-15 06:27:10,062 - WARNING - ssc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:27:10,062 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 06:30:59,220 - WARNING - Detection Dual-Stack Backdoor at Domain: api.sjtu.edu.cn.!
+2021-04-15 06:30:59,221 - WARNING - api.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 06:30:59,222 - WARNING - api.sjtu.edu.cn. has open services in IPv6: ['http', 'https']
+2021-04-15 06:30:59,222 - WARNING - Open service threat port: []
+2021-04-15 06:33:35,789 - WARNING - Detection Dual-Stack Backdoor at Domain: energy.sjtu.edu.cn.!
+2021-04-15 06:33:35,790 - WARNING - energy.sjtu.edu.cn. has open services in IPv4: ['ftp', 'ssh', 'telnet', 'http', 'msrpc', 'netbios-ssn', 'ssh', 'ldap', 'microsoft-ds', 'rxmon', 'mysql', 'ms-wbt-server', 'ajp13', 'ftp']
+2021-04-15 06:33:35,791 - WARNING - energy.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:33:35,791 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 06:36:00,702 - WARNING - Detection Dual-Stack Backdoor at Domain: jd.sjtu.edu.cn.!
+2021-04-15 06:36:00,703 - WARNING - jd.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 06:36:00,704 - WARNING - jd.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:36:00,704 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 06:40:57,768 - WARNING - Detection Dual-Stack Backdoor at Domain: pass.sjtu.edu.cn.!
+2021-04-15 06:40:57,769 - WARNING - pass.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'upnp', 'commplex-link', 'http-proxy']
+2021-04-15 06:40:57,770 - WARNING - pass.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:40:57,770 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 06:43:22,256 - WARNING - Detection Dual-Stack Backdoor at Domain: src.sjtu.edu.cn.!
+2021-04-15 06:43:22,257 - WARNING - src.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 06:43:22,257 - WARNING - src.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:43:22,257 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 06:45:33,694 - WARNING - Detection Dual-Stack Backdoor at Domain: crypto.sjtu.edu.cn.!
+2021-04-15 06:45:33,695 - WARNING - crypto.sjtu.edu.cn. has open services in IPv4: ['http', 'http', 'pptp', 'ppp']
+2021-04-15 06:45:33,696 - WARNING - crypto.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:45:33,696 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 06:47:44,305 - WARNING - Detection Dual-Stack Backdoor at Domain: train.sjtu.edu.cn.!
+2021-04-15 06:47:44,305 - WARNING - train.sjtu.edu.cn. has open services in IPv4: ['ftp', 'ssh', 'http', 'hosts2-ns', 'https', 'ms-sql-s', 'mysql', 'http-alt', 'http-proxy']
+2021-04-15 06:47:44,306 - WARNING - train.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:47:44,306 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https')]
+2021-04-15 06:51:11,595 - WARNING - Detection Dual-Stack Backdoor at Domain: taiwan.sjtu.edu.cn.!
+2021-04-15 06:51:11,596 - WARNING - taiwan.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 06:51:11,597 - WARNING - taiwan.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:51:11,597 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 06:52:12,971 - WARNING - Detection Dual-Stack Backdoor at Domain: ai.sjtu.edu.cn.!
+2021-04-15 06:52:12,971 - WARNING - ai.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'https', 'ms-wbt-server', 'http']
+2021-04-15 06:52:12,972 - WARNING - ai.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:52:12,972 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https')]
+2021-04-15 06:54:28,693 - WARNING - Detection Dual-Stack Backdoor at Domain: ly.sjtu.edu.cn.!
+2021-04-15 06:54:28,694 - WARNING - ly.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'xfer', 'https', 'mysql', 'ms-wbt-server', 'http-proxy', 'https-alt', 'glrpc']
+2021-04-15 06:54:28,694 - WARNING - ly.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:54:28,694 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 06:55:11,034 - WARNING - Detection Dual-Stack Backdoor at Domain: life.sjtu.edu.cn.!
+2021-04-15 06:55:11,034 - WARNING - life.sjtu.edu.cn. has open services in IPv4: []
+2021-04-15 06:55:11,035 - WARNING - life.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:55:11,035 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 06:56:53,365 - WARNING - Detection Dual-Stack Backdoor at Domain: global.sjtu.edu.cn.!
+2021-04-15 06:56:53,366 - WARNING - global.sjtu.edu.cn. has open services in IPv4: []
+2021-04-15 06:56:53,366 - WARNING - global.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:56:53,366 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 06:57:51,443 - WARNING - Detection Dual-Stack Backdoor at Domain: sp.sjtu.edu.cn.!
+2021-04-15 06:57:51,444 - WARNING - sp.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'tcpwrapped']
+2021-04-15 06:57:51,445 - WARNING - sp.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:57:51,445 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 06:59:57,941 - WARNING - Detection Dual-Stack Backdoor at Domain: urban.sjtu.edu.cn.!
+2021-04-15 06:59:57,942 - WARNING - urban.sjtu.edu.cn. has open services in IPv4: []
+2021-04-15 06:59:57,942 - WARNING - urban.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 06:59:57,942 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 07:03:47,786 - WARNING - Detection Dual-Stack Backdoor at Domain: museum.sjtu.edu.cn.!
+2021-04-15 07:03:47,787 - WARNING - museum.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 07:03:47,787 - WARNING - museum.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 07:03:47,788 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 07:04:56,646 - WARNING - Detection Dual-Stack Backdoor at Domain: notes.sjtu.edu.cn.!
+2021-04-15 07:04:56,647 - WARNING - notes.sjtu.edu.cn. has open services in IPv4: ['http', 'http']
+2021-04-15 07:04:56,647 - WARNING - notes.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 07:04:56,648 - WARNING - Open service threat port: [(443, 'https'), (22, 'ssh')]
+2021-04-15 07:07:03,976 - WARNING - Detection Dual-Stack Backdoor at Domain: ahc.sjtu.edu.cn.!
+2021-04-15 07:07:03,977 - WARNING - ahc.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'tcpwrapped']
+2021-04-15 07:07:03,977 - WARNING - ahc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:07:03,977 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 07:09:20,198 - WARNING - Detection Dual-Stack Backdoor at Domain: sac.sjtu.edu.cn.!
+2021-04-15 07:09:20,199 - WARNING - sac.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'http', 'mysql', 'ms-wbt-server', 'http-proxy', 'abyss']
+2021-04-15 07:09:20,200 - WARNING - sac.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:09:20,200 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 07:10:23,357 - WARNING - Detection Dual-Stack Backdoor at Domain: cal.sjtu.edu.cn.!
+2021-04-15 07:10:23,358 - WARNING - cal.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'https', 'http', 'ms-wbt-server']
+2021-04-15 07:10:23,358 - WARNING - cal.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:10:23,358 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https')]
+2021-04-15 07:12:21,179 - WARNING - Detection Dual-Stack Backdoor at Domain: calendar.sjtu.edu.cn.!
+2021-04-15 07:12:21,179 - WARNING - calendar.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 07:12:21,180 - WARNING - calendar.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 07:12:21,180 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 07:12:31,631 - WARNING - Detection Dual-Stack Backdoor at Domain: media2.sjtu.edu.cn.!
+2021-04-15 07:12:31,632 - WARNING - media2.sjtu.edu.cn. has open services in IPv4: ['ssh']
+2021-04-15 07:12:31,632 - WARNING - media2.sjtu.edu.cn. has open services in IPv6: []
+2021-04-15 07:12:31,633 - WARNING - Open service threat port: []
+2021-04-15 07:13:24,605 - WARNING - Detection Dual-Stack Backdoor at Domain: mr.sjtu.edu.cn.!
+2021-04-15 07:13:24,606 - WARNING - mr.sjtu.edu.cn. has open services in IPv4: ['http', 'kerberos-sec', 'http-proxy']
+2021-04-15 07:13:24,606 - WARNING - mr.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:13:24,606 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 07:18:20,058 - WARNING - Detection Dual-Stack Backdoor at Domain: design.sjtu.edu.cn.!
+2021-04-15 07:18:20,059 - WARNING - design.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 07:18:20,059 - WARNING - design.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:18:20,059 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 07:20:59,984 - WARNING - Detection Dual-Stack Backdoor at Domain: jc.sjtu.edu.cn.!
+2021-04-15 07:20:59,985 - WARNING - jc.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'unknown', 'vcom-tunnel']
+2021-04-15 07:20:59,985 - WARNING - jc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:20:59,985 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 07:24:42,616 - WARNING - Detection Dual-Stack Backdoor at Domain: qd.sjtu.edu.cn.!
+2021-04-15 07:24:42,617 - WARNING - qd.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'upnp', 'commplex-link', 'http-proxy']
+2021-04-15 07:24:42,617 - WARNING - qd.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:24:42,617 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 07:25:47,042 - WARNING - Detection Dual-Stack Backdoor at Domain: hospital.sjtu.edu.cn.!
+2021-04-15 07:25:47,043 - WARNING - hospital.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'https', 'ms-wbt-server']
+2021-04-15 07:25:47,043 - WARNING - hospital.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:25:47,044 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https')]
+2021-04-15 07:26:40,073 - WARNING - Detection Dual-Stack Backdoor at Domain: ip.sjtu.edu.cn.!
+2021-04-15 07:26:40,074 - WARNING - ip.sjtu.edu.cn. has open services in IPv4: ['http', 'http']
+2021-04-15 07:26:40,074 - WARNING - ip.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:26:40,074 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 07:34:55,757 - WARNING - Detection Dual-Stack Backdoor at Domain: bioinformatics.sjtu.edu.cn.!
+2021-04-15 07:34:55,758 - WARNING - bioinformatics.sjtu.edu.cn. has open services in IPv4: ['ftp', 'ssh', 'telnet', 'http', 'ssh', 'https', 'ssh', 'ssh', 'http', 'unknown', 'unknown']
+2021-04-15 07:34:55,758 - WARNING - bioinformatics.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:34:55,758 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 07:35:32,858 - WARNING - Detection Dual-Stack Backdoor at Domain: ice.sjtu.edu.cn.!
+2021-04-15 07:35:32,859 - WARNING - ice.sjtu.edu.cn. has open services in IPv4: []
+2021-04-15 07:35:32,859 - WARNING - ice.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:35:32,860 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 07:36:35,664 - WARNING - Detection Dual-Stack Backdoor at Domain: expert.sjtu.edu.cn.!
+2021-04-15 07:36:35,665 - WARNING - expert.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'https', 'ms-wbt-server', 'http']
+2021-04-15 07:36:35,665 - WARNING - expert.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:36:35,665 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https')]
+2021-04-15 07:40:47,472 - WARNING - Detection Dual-Stack Backdoor at Domain: my.sjtu.edu.cn.!
+2021-04-15 07:40:47,472 - WARNING - my.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 07:40:47,473 - WARNING - my.sjtu.edu.cn. has open services in IPv6: ['http', 'https']
+2021-04-15 07:40:47,473 - WARNING - Open service threat port: []
+2021-04-15 07:45:31,742 - WARNING - Detection Dual-Stack Backdoor at Domain: abc.sjtu.edu.cn.!
+2021-04-15 07:45:31,743 - WARNING - abc.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 07:45:31,744 - WARNING - abc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:45:31,744 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 07:47:15,827 - WARNING - Detection Dual-Stack Backdoor at Domain: pss.sjtu.edu.cn.!
+2021-04-15 07:47:15,828 - WARNING - pss.sjtu.edu.cn. has open services in IPv4: ['ftp-data', 'ftp', 'http', 'ssh', 'remoteanything', 'ssh', 'ssh', 'ssh', 'afs3-callback', 'afs3-prserver', 'ssh', 'http', 'ssh', 'dynamid']
+2021-04-15 07:47:15,828 - WARNING - pss.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:47:15,828 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 07:52:01,863 - WARNING - Detection Dual-Stack Backdoor at Domain: multimedia.sjtu.edu.cn.!
+2021-04-15 07:52:01,864 - WARNING - multimedia.sjtu.edu.cn. has open services in IPv4: ['http', 'msrpc', 'https', 'pptp', 'unknown', 'sun-answerbook', 'msrpc']
+2021-04-15 07:52:01,864 - WARNING - multimedia.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:52:01,865 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 07:55:26,742 - WARNING - Detection Dual-Stack Backdoor at Domain: order.sjtu.edu.cn.!
+2021-04-15 07:55:26,743 - WARNING - order.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 07:55:26,744 - WARNING - order.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:55:26,744 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 07:59:17,560 - WARNING - Detection Dual-Stack Backdoor at Domain: ky.sjtu.edu.cn.!
+2021-04-15 07:59:17,561 - WARNING - ky.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'https', 'cisco-sccp', 'dc', 'globe', 'finger', 'mailbox', 'deslogin', 'invokator', 'dectalk', 'conf', 'news', 'search', 'raid-am', 'xinupageserver', 'servexec', 'down', 'device2', 'glogger', 'scoremgr', 'imsldoc', 'objectmanager', 'lam', 'interbase', 'isis', 'isis-bcast', 'cdfunc', 'sdfunc', 'dls', 'dls-monitor', 'nfs', 'dlsrpn', 'advocentkvm', 'h2250-annex-g', 'amiganetfs', 'zephyr-clt', 'eklogin', 'ekshell', 'msmq-mgmt', 'kx', 'gsigatekeeper', 'ccproxy-ftp', 'pktcable-cops', 'gris', 'lv-ffx', 'apc-2160', 'apc-agent', 'eyetv', 'vmrdp', 'tivoconnect', 'tvbus', 'unknown', 'ici', 'EtherNet/IP-1', 'dif-port', 'apc-2260', 'netml', 'compaqdiag', '3d-nfsd', 'qip-login', 'compaq-https', 'ms-olap3', 'ms-olap4', 'ms-olap1', 'ms-olap2', 'fmpro-fdal', 'cvspserver', 'groove', 'rtsserv', 'windb', 'ms-v-worlds', 'nicetec-mgmt', 'zebra', 'ripd', 'ospfd', 'bgpd', 'connection', 'wag-service', 'sybase', 'sms-rcinfo', 'sms-xfer', 'sso-service', 'pn-requester', 'pn-requester2', 'msolap-ptp2', 'acc-raid', 'corbaloc', 'gsiftp', 'icslap', 'dxmessagebase2', 'funk-dialout', 'tdaccess', 'roboeda', 'symantec-av', 'enpp', 'iss-realsec', 'ppp', 'nessus', 'cgms', 'deslogin', 'deslogind', 'lotusmtap', 'trusted-web', 'gilatskysurfer', 'event_listener', 'arepa-cas', 'eppc', 'powerchute', 'csd-mgmt-port', 'orbix-loc-ssl', 'squid-http', 'poweronnud', 'avsecuremgmt', 'xnm-clear-text', 'iscsi', 'winshadow', 'globalcatLDAP', 'globalcatLDAPssl', 'netassistant', 'unknown', 'unknown', 'mysql', 'active-net', 'active-net', 'active-net', 'active-net', 'dec-notes', 'btrieve', 'satvid-datalnk', 'satvid-datalnk', 'satvid-datalnk', 'satvid-datalnk', 'msdtc', 'ms-wbt-server', 'dsc', 'unknown', 'nppmp', 'nut', '802-11-iapp', 'beserver-msg-q', 'unknown', 'apcupsd', 'nati-svrloc', 'apple-sasl', 'rendezvous', 'svn', 'adobeserver-3', 'xpanel', 'unknown', 'bfd-control', 'pwgpsi', 'ibm-mgr', 'apocd', 'neto-dcs', 'wormux', 'netmpi', 'neteh', 'spectraport', 'ovsam-mgmt', 'avocent-adsap', 'fotogcad', 'igrs', 'dandv-tester', 'mupdate', 'listcrt-port-2', 'pktcablemmcops', 'exasoftport1', 'emcads', 'lanrevserver', 'mapper-ws_ethd', 'iss-mgmt-ssl', 'dnx', 'remoteanything', 'newoak', 'mlchat-proxy', 'pxc-splr-ft', 'pxc-roid', 'pxc-pin', 'pxc-spvr', 'lockd', 'xgrid', 'rww', 'ddrepl', 'nuauth', 'xtell', 'vrml-multi-use', 'vrml-multi-use', 'rwhois', 'unicall', 'pharos', 'krb524', 'upnotifyp', 'n1-fwp', 'privatewire', 'gds-adppiw-db', 'tram', 'edonkey', 'appserv-http', 'radmin', 'hfcs', 'maybe-veritas', 'upnp', 'commplex-link', 'rfe', 'filemaker', 'avt-profile-1', 'airport-admin', 'surfpass', 'unknown', 'mmcc', 'ida-agent', 'rlm-admin', 'sip', 'sip-tls', 'onscreen', 'unknown', 'admd', 'admdog', 'admeng', 'unknown', 'aol', 'targus-getdata', 'unknown', '3exmp', 'xmpp-client', 'hp-server', 'hp-status', 'xmpp-server', 'xmpp-bosh', 'presence', 'wsdapi', 'pcduo', 'statusd', 'park-agent', 'postgresql', 'unknown', 'hotline', 'secureidprop', 'unknown', 'sdadmind', 'freeciv', 'isqlplus', 'westec-connect', 'pcanywheredata', 'beorl', 'nrpe', 'rrac', 'activesync', 'dpm', 'unieng', 'vnc-http', 'vnc-http-1', 'vnc-http-2', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'wherehoo', 'unknown', 'unknown', 'vnc', 'vnc-1', 'vnc-2', 'vnc-3', 'unknown', 'unknown', 'unknown', 'cm', 'cpdlc', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'indy', 'wbem-rmi', 'wbem-http', 'wbem-https', 'ncd-diag', 'ncd-conf', 'X11', 'X11:1', 'X11:2', 'X11:3', 'X11:4', 'X11:5', 'X11:6', 'X11:7', 'X11:9', 'x11', 'X11:59', 'synchronet-db', 'backupexec', 'isdninfo', 'dtspc', 'backup-express', 'unknown', 'unknown', 'gnutella', 'clariion-evr01', 'netop-rc', 'mcer-port', 'mythtv', 'powerchuteplus', 'unknown', 'sane-port', 'esp', 'parsec-master', 'unknown', 'irc', 'irc', 'irc', 'irc', 'tsa', 'unknown', 'napster', 'unknown', 'smc-http', 'ibm-db2-admin', 'unknown', 'unknown', 'bittorrent-tracker', 'jetstream', 'acmsoda', 'afs3-fileserver', 'afs3-callback', 'afs3-prserver', 'afs3-kaserver', 'afs3-bos', 'unknown', 'vmsvc-2', 'realserver', 'font-service', 'unknown', 'unknown', 'fodms', 'dlip', 'rtps-dd-mt', 'unknown', 'oracleas-https', 'unknown', 'unknown', 'unknown', 'soap-http', 'imqbrokerd', 'scriptview', 'cbt', 'interwise', 'asr', 'unknown', 'unknown', 'unknown', 'nsrexecd', 'lgtomapper', 'irdmi2', 'http-alt', 'vcom-tunnel', 'teradataordbms', 'ajp12', 'http', 'ajp13', 'xmpp', 'unknown', 'ftp-proxy', 'oa-system', 'unknown', 'fs-agent', 'unknown', 'http-proxy', 'blackice-icecap', 'blackice-alerts', 'us-srv', 'unknown', 'unknown', 'd-s-n', 'simplifymedia', 'radan-http', 'unknown', 'unknown', 'unknown', 'unknown', 'xprint-server', 'unknown', 'unknown', 'sophos', 'sophos', 'sophos', 'trivnet1', 'unknown', 'unknown', 'unknown', 'unknown', 'blp3', 'tmi', 'unknown', 'm2mservices', 'cvd', 'abarsd', 'https-alt', 'fmtp', 'asterix', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'sunwebadmin', 'dxspider', 'sun-answerbook', 'ospf-lite', 'unknown', 'cslistener', 'tor-orport', 'dynamid', 'unknown', 'pichat', 'sdr', 'unknown', 'tor-trans', 'tor-socks', 'unknown', 'glrpc', 'unknown', 'zeus-admin', 'xmltec-xmlmail', 'unknown', 'jetdirect', 'jetdirect', 'jetdirect', 'jetdirect', 'unknown', 'DragonIDSConsole', 'wap-wsp', 'wap-vcal-s', 'unknown', 'unknown', 'unknown', 'git', 'unknown', 'ismserver', 'unknown', 'unknown', 'man', 'unknown', 'cba8', 'msgsys', 'pds', 'condor', 'unknown', 'sd', 'unknown', 'unknown', 'monkeycom', 'iua', 'unknown', 'nping-echo', 'unknown', 'unknown', 'unknown', 'distinct32', 'abyss', 'snet-sensor-mgmt']
+2021-04-15 07:59:17,561 - WARNING - ky.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 07:59:17,562 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https')]
+2021-04-15 08:02:45,392 - WARNING - Detection Dual-Stack Backdoor at Domain: yi.sjtu.edu.cn.!
+2021-04-15 08:02:45,393 - WARNING - yi.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 08:02:45,393 - WARNING - yi.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:02:45,394 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 08:07:21,764 - WARNING - Detection Dual-Stack Backdoor at Domain: english.sjtu.edu.cn.!
+2021-04-15 08:07:21,764 - WARNING - english.sjtu.edu.cn. has open services in IPv4: ['http', 'msrpc', 'netbios-ssn', 'netbios-ssn', 'ms-sql-s', 'nsjtp-data', 'ms-olap4', 'mysql', 'sun-answerbook', 'msrpc', 'msrpc', 'msrpc', 'msrpc', 'unknown', 'msrpc']
+2021-04-15 08:07:21,765 - WARNING - english.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:07:21,765 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 08:12:17,477 - WARNING - Detection Dual-Stack Backdoor at Domain: law.sjtu.edu.cn.!
+2021-04-15 08:12:17,478 - WARNING - law.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 08:12:17,478 - WARNING - law.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:12:17,479 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 08:14:27,823 - WARNING - Detection Dual-Stack Backdoor at Domain: air.sjtu.edu.cn.!
+2021-04-15 08:14:27,824 - WARNING - air.sjtu.edu.cn. has open services in IPv4: ['ftp', 'ssh', 'http', 'https', 'ms-sql-s', 'ms-wbt-server', 'postgresql', 'blackice-icecap', 'blackice-alerts', 'radan-http']
+2021-04-15 08:14:27,824 - WARNING - air.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:14:27,824 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https')]
+2021-04-15 08:18:59,446 - WARNING - Detection Dual-Stack Backdoor at Domain: form.sjtu.edu.cn.!
+2021-04-15 08:18:59,447 - WARNING - form.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 08:18:59,447 - WARNING - form.sjtu.edu.cn. has open services in IPv6: ['http', 'https']
+2021-04-15 08:18:59,448 - WARNING - Open service threat port: []
+2021-04-15 08:20:39,883 - WARNING - Detection Dual-Stack Backdoor at Domain: ie.sjtu.edu.cn.!
+2021-04-15 08:20:39,884 - WARNING - ie.sjtu.edu.cn. has open services in IPv4: ['http', 'msrpc', 'netbios-ssn', 'ms-sql-s', 'realserver', 'msrpc', 'msrpc', 'msrpc', 'msrpc']
+2021-04-15 08:20:39,884 - WARNING - ie.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:20:39,884 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 08:23:06,859 - WARNING - Detection Dual-Stack Backdoor at Domain: sla.sjtu.edu.cn.!
+2021-04-15 08:23:06,860 - WARNING - sla.sjtu.edu.cn. has open services in IPv4: ['ftp', 'http', 'msrpc', 'msrpc', 'ms-wbt-server']
+2021-04-15 08:23:06,860 - WARNING - sla.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:23:06,860 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 08:26:34,543 - WARNING - Detection Dual-Stack Backdoor at Domain: foundation.sjtu.edu.cn.!
+2021-04-15 08:26:34,544 - WARNING - foundation.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 08:26:34,544 - WARNING - foundation.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:26:34,545 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 08:27:39,605 - WARNING - Detection Dual-Stack Backdoor at Domain: or.sjtu.edu.cn.!
+2021-04-15 08:27:39,606 - WARNING - or.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'https']
+2021-04-15 08:27:39,606 - WARNING - or.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:27:39,606 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https'), (80, 'http')]
+2021-04-15 08:29:55,272 - WARNING - Detection Dual-Stack Backdoor at Domain: vod.sjtu.edu.cn.!
+2021-04-15 08:29:55,273 - WARNING - vod.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 08:29:55,273 - WARNING - vod.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:29:55,273 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 08:33:00,489 - WARNING - Detection Dual-Stack Backdoor at Domain: courses.sjtu.edu.cn.!
+2021-04-15 08:33:00,490 - WARNING - courses.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 08:33:00,490 - WARNING - courses.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 08:33:00,491 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 08:35:06,867 - WARNING - Detection Dual-Stack Backdoor at Domain: ic.sjtu.edu.cn.!
+2021-04-15 08:35:06,868 - WARNING - ic.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'https', 'vnc', 'vnc-1', 'vnc-2', 'vnc-3', 'unknown', 'unknown', 'unknown', 'cm', 'cpdlc', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'unknown', 'indy', 'wbem-rmi', 'wbem-http', 'wbem-https']
+2021-04-15 08:35:06,868 - WARNING - ic.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:35:06,869 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp'), (443, 'https')]
+2021-04-15 08:37:28,428 - WARNING - Detection Dual-Stack Backdoor at Domain: welcome.sjtu.edu.cn.!
+2021-04-15 08:37:28,429 - WARNING - welcome.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 08:37:28,429 - WARNING - welcome.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 08:37:28,429 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 08:38:18,276 - WARNING - Detection Dual-Stack Backdoor at Domain: pmc.sjtu.edu.cn.!
+2021-04-15 08:38:18,277 - WARNING - pmc.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'tcpwrapped']
+2021-04-15 08:38:18,277 - WARNING - pmc.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:38:18,278 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 08:41:59,973 - WARNING - Detection Dual-Stack Backdoor at Domain: dbs.sjtu.edu.cn.!
+2021-04-15 08:41:59,974 - WARNING - dbs.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 08:41:59,974 - WARNING - dbs.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:41:59,974 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 08:42:30,434 - WARNING - Detection Dual-Stack Backdoor at Domain: media3.sjtu.edu.cn.!
+2021-04-15 08:42:30,435 - WARNING - media3.sjtu.edu.cn. has open services in IPv4: ['http', 'http']
+2021-04-15 08:42:30,435 - WARNING - media3.sjtu.edu.cn. has open services in IPv6: []
+2021-04-15 08:42:30,435 - WARNING - Open service threat port: []
+2021-04-15 08:46:33,636 - WARNING - Detection Dual-Stack Backdoor at Domain: alumni.sjtu.edu.cn.!
+2021-04-15 08:46:33,637 - WARNING - alumni.sjtu.edu.cn. has open services in IPv4: ['http', 'https', 'unknown', 'vcom-tunnel']
+2021-04-15 08:46:33,637 - WARNING - alumni.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:46:33,637 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 08:47:29,191 - WARNING - Detection Dual-Stack Backdoor at Domain: yq.sjtu.edu.cn.!
+2021-04-15 08:47:29,192 - WARNING - yq.sjtu.edu.cn. has open services in IPv4: ['tcpwrapped', 'tcpwrapped']
+2021-04-15 08:47:29,192 - WARNING - yq.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:47:29,192 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
+2021-04-15 08:47:42,451 - WARNING - Detection Dual-Stack Backdoor at Domain: media1.sjtu.edu.cn.!
+2021-04-15 08:47:42,452 - WARNING - media1.sjtu.edu.cn. has open services in IPv4: ['ssh']
+2021-04-15 08:47:42,452 - WARNING - media1.sjtu.edu.cn. has open services in IPv6: []
+2021-04-15 08:47:42,453 - WARNING - Open service threat port: []
+2021-04-15 08:51:10,152 - WARNING - Detection Dual-Stack Backdoor at Domain: entropy.sjtu.edu.cn.!
+2021-04-15 08:51:10,153 - WARNING - entropy.sjtu.edu.cn. has open services in IPv4: ['http', 'https']
+2021-04-15 08:51:10,153 - WARNING - entropy.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:51:10,153 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (25, 'smtp')]
+2021-04-15 08:55:15,875 - WARNING - Detection Dual-Stack Backdoor at Domain: mirror.sjtu.edu.cn.!
+2021-04-15 08:55:15,876 - WARNING - mirror.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'https', 'rsync']
+2021-04-15 08:55:15,877 - WARNING - mirror.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 08:55:15,877 - WARNING - Open service threat port: []
+2021-04-15 08:57:34,379 - WARNING - Detection Dual-Stack Backdoor at Domain: acm.sjtu.edu.cn.!
+2021-04-15 08:57:34,380 - WARNING - acm.sjtu.edu.cn. has open services in IPv4: ['ssh', 'http', 'rpcbind', 'http', 'tcpwrapped', 'ssh', 'tcpwrapped', 'tcpwrapped']
+2021-04-15 08:57:34,380 - WARNING - acm.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 08:57:34,381 - WARNING - Open service threat port: [(53, 'domain'), (443, 'https'), (25, 'smtp')]
+2021-04-15 08:59:33,398 - WARNING - Detection Dual-Stack Backdoor at Domain: sv.sjtu.edu.cn.!
+2021-04-15 08:59:33,399 - WARNING - sv.sjtu.edu.cn. has open services in IPv4: ['http', 'hosts2-ns', 'https']
+2021-04-15 08:59:33,399 - WARNING - sv.sjtu.edu.cn. has open services in IPv6: ['ssh', 'http', 'https']
+2021-04-15 08:59:33,399 - WARNING - Open service threat port: [(22, 'ssh')]
+2021-04-15 09:01:18,316 - WARNING - Detection Dual-Stack Backdoor at Domain: em.sjtu.edu.cn.!
+2021-04-15 09:01:18,317 - WARNING - em.sjtu.edu.cn. has open services in IPv4: []
+2021-04-15 09:01:18,317 - WARNING - em.sjtu.edu.cn. has open services in IPv6: ['smtp', 'domain', 'http', 'rpcbind', 'https']
+2021-04-15 09:01:18,317 - WARNING - Open service threat port: [(111, 'rpcbind'), (53, 'domain'), (443, 'https'), (25, 'smtp'), (80, 'http')]
