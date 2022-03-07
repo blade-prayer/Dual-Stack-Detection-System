@@ -1,0 +1,6 @@
+python_whois
+dnspython
+elasticsearch
+scikit_learn
+MySQL-python
+geoip2

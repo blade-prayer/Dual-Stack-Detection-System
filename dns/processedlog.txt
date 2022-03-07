@@ -1,0 +1,7 @@
+/code/log/rr_20170517_00_test.log
+/code/log/rr_20170518_00_test.log
+/code/log/rr_20170519_00_site115.log
+/code/log/rr_20170519_01_site115.log
+/code/log/rr_20170519_02_site115.log
+/code/log/rr_20170519_03_site115.log
+/code/log/rr_20170519_04_site115.log
